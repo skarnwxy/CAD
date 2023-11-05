@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAndCubeMode", "CSharpAndCubeMode\CSharpAndCubeMode.csproj", "{66B3E3C6-3DA9-4BC7-9D1F-B8D0C324952A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B3E3C6-3DA9-4BC7-9D1F-B8D0C324952A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B3E3C6-3DA9-4BC7-9D1F-B8D0C324952A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B3E3C6-3DA9-4BC7-9D1F-B8D0C324952A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B3E3C6-3DA9-4BC7-9D1F-B8D0C324952A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98486E01-70B7-4D40-96DF-5DD1C29551C8}
+	EndGlobalSection
+EndGlobal
